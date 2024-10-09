@@ -1,4 +1,4 @@
-# Kubernetes, Nginx, HPA 아키텍처 성능 및 확장성 테스트 🚀
+# Spring Boot, Nginx, Kubernetes 기반 애플리케이션 성능 및 확장성 테스트 🚀
 
 ## 1. 개요 📝
 
